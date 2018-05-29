@@ -1,4 +1,4 @@
-require relative '.user.ruby'
+require relative '.user.rb'
 
 class Teacher < User
 
